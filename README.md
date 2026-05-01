@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**jyotikumari133100-art/jyotikumari133100-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+Full Stack Developer (PHP) | Building Scalable Web Applications | Django (In Progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 BCA - Computer Science  
+💼 Currently working at JSI Software Solutions  
+
+🚀 Building production-ready web applications & admin dashboards  
+
+---
+
+## 🛠️ Tech Stack
+
+- PHP  
+- MySQL  
+- HTML  
+- CSS  
+- JavaScript  
+- Python (Django)
+
+---
+
+## 📌 Current Work
+
+- 🔹 Building a Job Portal using Django (In Progress)
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/jyoti-kumari-dev
