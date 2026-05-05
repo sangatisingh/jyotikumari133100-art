@@ -2,10 +2,10 @@
 
 ## 👩‍💻 About Me
 
-Full Stack Developer (PHP) | Building Scalable Web Applications | Django (In Progress)
+Full Stack Developer (PHP) | Scalable Web Applications | Django (In Progress)
 
 🎓 BCA - Computer Science  
-💼 Currently working at JSI Software Solutions  
+💼 Full Stack Developer at JSI Software Solutions  
 
 🚀 Building production-ready web applications & admin dashboards  
 
